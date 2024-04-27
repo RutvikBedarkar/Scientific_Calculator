@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Black">#0E0D0D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="operand_color">#EFE05E</color>
+    <color name="equals_color">#F45188</color>
+    <color name="number_color">#575656</color>
+    <color name="ac_color">#F45188</color>
+    <color name="backspace">#F45188</color>
+    <color name="trigono">#D9DFDB</color>
+
+</resources>
+
